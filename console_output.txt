@@ -1,0 +1,63 @@
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10.Load to queue and display.
+0. Exit.
+LinkedList: 
+P01;Salt;10;15.8
+P03;Candy;56;44.5
+P02;Sugar;12;25.1
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10.Load to queue and display.
+0. Exit.
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10.Load to queue and display.
+0. Exit.
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10.Load to queue and display.
+0. Exit.
+LinkedList: 
+P01;Salt;10;15.8
+P03;Candy;56;44.5
+P02;Sugar;12;25.1
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10.Load to queue and display.
+0. Exit.
